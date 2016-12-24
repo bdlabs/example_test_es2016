@@ -2,3 +2,6 @@
 
 run:
 npm run test
+
+documentation
+http://chaijs.com/api/bdd/
